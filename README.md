@@ -1,1 +1,2 @@
-# Glosskc.github.io
+# Portfolio
+Professional Portfolio showcasing projects
